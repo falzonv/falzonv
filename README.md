@@ -1,7 +1,7 @@
 F-Droid useful links :\
-=> [Applications for which an update has been detected](https://monitor.f-droid.org/builds/needsupdate)\
-=> [Results of the build process currently running](https://monitor.f-droid.org/builds/running) and [previous build](https://monitor.f-droid.org/builds/build)\
-=> [Other page about the recent build activity](https://f-droid.org/wiki/index.php?title=Special:RecentChanges&limit=500&hidebots=0)
+=> [Applications for which a new version has been detected](https://monitor.f-droid.org/builds/needsupdate)\
+=> [Results of the build process currently running](https://monitor.f-droid.org/builds/running)
+=> [Results of the previous build](https://monitor.f-droid.org/builds/build) (finished)
 
 <!--
 ### Hi there 👋
