@@ -1,5 +1,4 @@
 F-Droid useful links :\
-=> [Applications for which a new version has been detected](https://monitor.f-droid.org/builds/needsupdate)\
 => [Results of the command currently running](https://monitor.f-droid.org/builds/running)\
 => [Results of the last finished build](https://monitor.f-droid.org/builds/build)
 
